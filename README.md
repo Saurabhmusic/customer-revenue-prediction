@@ -3,7 +3,7 @@
 An End-to-End Machine Learning project that segments customers based on their buying behavior and predicts their future revenue potential. Built using **Python, Scikit-Learn, and Streamlit**.
 
 ## 🔗 Live Demo
-Check out the live app here: **[Paste Your Streamlit App Link Here]**
+Check out the live app here: https://customer-revenue-prediction-ic2krklxewth4pssktbvaw.streamlit.app/
 
 ---
 
