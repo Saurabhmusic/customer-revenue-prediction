@@ -45,4 +45,3 @@ Built an interactive web app using **Streamlit** so that non-technical users can
 
 ---
 
-##  Project Structure
